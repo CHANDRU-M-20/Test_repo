@@ -21,3 +21,4 @@ class Image_detector:
 # git rm --cached file_name (remove the file from local git)
 
 # git remote add origin <repo>
+#git tag <tag_name eg.v1.0>
