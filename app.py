@@ -15,7 +15,9 @@ class Image_detector:
 
 # git init -b main
 # git add <file_name> -->Staging ---> commit
+# git add . (If you want to add all the files into staging)
 # git commit -m "msg" -->File commited to the local repo
 
-# git 
+# git rm --cached file_name (remove the file from local git)
 
+# git remote add origin <repo>
