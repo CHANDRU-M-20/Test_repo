@@ -7,7 +7,15 @@ class Image_detector:
         self.image_byte = image_byte
 
 
-# git add <file_name>
-# git commit -m "msg"
+# git --global user.name = "" 
 
+# git init
+# git status
+# git log
+
+# git init -b main
+# git add <file_name> -->Staging ---> commit
+# git commit -m "msg" -->File commited to the local repo
+
+# git 
 
